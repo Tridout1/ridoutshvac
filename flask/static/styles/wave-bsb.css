@@ -14,10 +14,14 @@
 
   /* Mobile and screen adjustments */
   @media (max-width: 992px) {
+
+    /* --------Start navbar-------- */
     .bsb-tpl-header-sticky.sticky-top .navbar-brand .bsb-tpl-logo{justify-content: center; width: 40%; margin-top: -10%;}
     .navbar-brand .bsb-tpl-logo{justify-content: center; width: 40%;}
     .navbar-brand{text-align: -webkit-center;}
     .bsb-tpl-header-sticky.sticky-top .navbar-brand{height: 5vh;}
-
     .navbar-toggler{margin-top: -5%;}
+    /* --------End navbar-------- */
+    
+    
 }
